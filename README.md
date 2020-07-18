@@ -3,7 +3,7 @@
 <!--
 **meeramenon07/meeramenon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some facts on me:
 
 - 🔭 I’m currently working on my own YouTube channel
 - 🌱 I’m currently learning React advanced level
