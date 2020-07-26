@@ -1,12 +1,7 @@
 # **I AM A FRONT END WEB DEV TEACHER FOR ABSOLUTE BEGINNERS**
 
 
-<img
-src=“images/banner.jpg”
-raw=true
-alt=“banner”
-style=“margin-right: 10px;”
-/>
+![Image of codercat](https://https://octodex.github.com/codercat/
 
  
 
