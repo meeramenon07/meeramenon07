@@ -1,4 +1,17 @@
-### Hi there 👋
+# **I AM A FRONT END WEB DEV TEACHER FOR ABSOLUTE BEGINNERS**
+
+
+<img
+src=“images/banner.jpg”
+raw=true
+alt=“banner”
+style=“margin-right: 10px;”
+/>
+
+ 
+
+
+
 
 <!--
 **meeramenon07/meeramenon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
