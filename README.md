@@ -1,6 +1,8 @@
 # **I AM A FRONT END WEB DEV WITH A PASSION TO TEACH AND CREATE......... 
 
- ![Image of Femalecodertocat](https://octodex.github.com/femalecodertocat/femalecodertocat.png)
+ ![Image of Femalecodertocat](https://octodex.github.com/femalecodertocat/Femalecodertocat.png)
+
+
 
 
 <!--
