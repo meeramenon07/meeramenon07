@@ -1,4 +1,4 @@
-# **I AM A FRONT END WEB DEV WITH A PASSION TO TEACH AND CREATE......... 
+# **I AM A FRONT END WEB DEV WITH A PASSION TO TEACH AND CREATE!** 
 
  ![Image of Codercat](https://octodex.github.com/images/codercat.jpg)
 
