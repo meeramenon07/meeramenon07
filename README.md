@@ -1,7 +1,7 @@
-# **I AM A FRONT END WEB DEV TEACHER FOR ABSOLUTE BEGINNERS
+# **I AM A FRONT END WEB DEV WITH A PASSION TO TEACH AND CREATE......... 
 
  
-![Image of Codercat](https://octodex.github.com/images/codercat.jpg)
+![Image of Saritocat](https://octodex.github.com/saritocat/)
 
 
 
