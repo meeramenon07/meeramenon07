@@ -12,7 +12,7 @@
 Here are some facts on me:
 
 ## I'm an Entrepreneur, Developer, and Teacher!
-- 🔭 I’m currently working on a [Beginner JavaScript tutorial][YouTube]!
+- 🔭 I’m currently working on a [Beginner Front-end Web dev tutorial][YouTube]!
 - 🌱 I’m currently learning React 🤣
 - 👯 I’m looking to build websites and apps in React
 - 🥅 2020 Goals: Get my YouTube channel monetised $$ 😊😊
