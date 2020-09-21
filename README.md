@@ -1,6 +1,6 @@
 ### Hi there, I'm Meera, a coding teacher aka [edtech][YouTube] with a passion to teach and create 👋
 
- ![Image of Codercat](https://octodex.github.com/images/codercat.jpg width="70" height="70")
+ ![Image of Codercat](https://octodex.github.com/images/codercat.jpg)[width="70" height="70"]
 
 
 
