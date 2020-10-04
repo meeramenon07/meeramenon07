@@ -2,9 +2,8 @@
 
  
  <p align='center'>
- <a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="450" height="250" /></a>
-
- <a href="#"><img src="https://media.giphy.com/media/4a7DGQqY7pkdfxKJxw/giphy.gif" width="450" height="250"></a>
+ 
+ <a href="#"><img src="https://media.giphy.com/media/4a7DGQqY7pkdfxKJxw/giphy.gif" width="750" height="150"></a>
  </p>
 <br/>
 <br/>
@@ -58,7 +57,7 @@ Here are some facts on me:
 
 ---
 
-<img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true" />
+<a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="450" height="250" /></a>
 
 [facebook]: https://www.facebook.com/edtech.meera
 [twitter]: https://twitter.com/EdtechByMeera
