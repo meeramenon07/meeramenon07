@@ -1,5 +1,5 @@
 
-  # Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube]😊
+  # Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube]😊😊
 
 <br>
 <p align='center'>
