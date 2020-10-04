@@ -2,10 +2,12 @@
 
  
  <p align='center'>
+ <a href="#"><img alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="350" /></a>
+
  <a href="#"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"></a>
  </p>
-
-
+<br/>
+<br/>
 
 
 <!--
