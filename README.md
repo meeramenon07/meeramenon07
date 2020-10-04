@@ -3,7 +3,7 @@
  
  <p align='center'>
  
- <a href="#"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif height="350" width="750"></a>
+ <a href="#"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="350" width="750"></a>
  </p>
 <br/>
 <br/>
