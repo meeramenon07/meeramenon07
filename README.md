@@ -4,7 +4,7 @@
  <p align='center'>
  <a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="450" height="250" /></a>
 
- <a href="#"><img src="https://media.giphy.com/media/4a7DGQqY7pkdfxKJxw/giphy.gif" width="4250" height="250"></a>
+ <a href="#"><img src="https://media.giphy.com/media/4a7DGQqY7pkdfxKJxw/giphy.gif" width="450" height="250"></a>
  </p>
 <br/>
 <br/>
