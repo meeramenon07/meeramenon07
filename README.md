@@ -1,5 +1,5 @@
 <p align='center'>
-<h1>Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].</h1>
+#Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].
 </p>
 <br>
 <p align='center'>
