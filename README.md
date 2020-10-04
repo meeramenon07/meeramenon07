@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there, 👋 I'm Meera, a coding teacher aka [edtech][YouTube] with a passion to teach and create!</h1>
+# Hi there, 👋 I'm Meera, a coding teacher aka [edtech][YouTube] with a passion to teach and create!
 
  
  <p align='center'>
