@@ -58,7 +58,7 @@ Here are some facts on me:
 - [Learn JavaScript String Substring method (July 2020)](https://www.youtube.com/watch?v=AiwzgeuKmOc)
 - [Learn JavaScript String Slice method (JavaScript)](https://www.youtube.com/watch?v=Lev40JRi85Y)
 <!-- YOUTUBE:END -->
-
+[more videos...](https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg)
 ---
 
 
