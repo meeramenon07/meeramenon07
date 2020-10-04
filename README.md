@@ -1,5 +1,5 @@
 
-#Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].I eat,drink and teach code :-)
+# Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].I eat,drink and teach code! 😊😊 😊😊
 
 <br>
 <p align='center'>
