@@ -1,4 +1,9 @@
-# Hi there, 👋 I'm Meera, a coding teacher aka [edtech][YouTube] with a passion to teach and create!
+# Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].
+<br>
+<p align='center'>
+  Coding Teacher at <a href="https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg" target="_blank">edtech</a>
+</p>
+
 
  
  <p align='center'>
