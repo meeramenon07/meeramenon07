@@ -57,7 +57,7 @@ Here are some facts on me:
 
 ---
 
-<a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="450" height="250" /></a>
+<a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="750" height="250" /></a>
 
 [facebook]: https://www.facebook.com/edtech.meera
 [twitter]: https://twitter.com/EdtechByMeera
