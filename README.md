@@ -1,6 +1,6 @@
-<p align='center'>
-#Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].
-</p>
+
+#Hi there, 👋 I'm Meera Menon, aka [edtech][YouTube].I eat,drink and teach code :-)
+
 <br>
 <p align='center'>
   Coding Teacher at <a href="https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg" target="_blank">edtech</a>
