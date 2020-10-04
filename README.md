@@ -1,5 +1,5 @@
 
-  # Hi, 👋 I'm Meera Menon, aka [edtech][YouTube] with a love for coding!
+  # Hi, 👋 I'm Meera Menon, aka [edtech][YouTube], I love coding!
 
 <br>
 <p align='center'>
