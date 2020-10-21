@@ -54,9 +54,9 @@ Here are some facts on me:
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [MAP ARRAY METHOD JAVASCRIPT| JavaScript  Array Methods 12 | JavaScript tutorial for beginners#38 (October 2020)](https://youtu.be/Uzwo1hXW7ik)
-- [Understand JavaScript Array Methods Part 1 | JavaScript tutorial for beginners#27
- (August 2020)](https://www.youtube.com/watch?v=2O8ngX0_esU)
-- [Learn JavaScript String Substring method (July 2020)](https://www.youtube.com/watch?v=AiwzgeuKmOc)
+- [FILL ARRAY METHOD | JavaScript  Array Methods 11 | JavaScript tutorial for beginners#37
+ (October 2020)](https://youtu.be/uu75VB9E_ek)
+- [INCLUDES ARRAY METHOD | JavaScript  Array Methods 10 | JavaScript tutorial for beginners#36 (October 2020)](https://youtu.be/XwsMLtYVkNM)
 - [Learn JavaScript String Slice method (JavaScript)](https://www.youtube.com/watch?v=Lev40JRi85Y)
 <!-- YOUTUBE:END -->
 [more videos...](https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg)
