@@ -10,7 +10,7 @@
  
  <p align='center'>
  
- <a href="#"><img src="https://twitter.com/EdtechByMeera/header_photo" height="250" width="950"></a>
+ <a href="#"><img src="https://twitter.com/EdtechByMeera/header_photo" height="550" width="950"></a>
  </p>
 <br/>
 <br/>
