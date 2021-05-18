@@ -22,10 +22,11 @@
 Here are some facts on me:
 
 ## I'm an Entrepreneur, Developer, and Teacher!
-- 🔭 I’m currently working on a [Beginner Front-end Web dev tutorial][YouTube]!
+- 🔭 I’m currently working on a [freecodecamp Javascript algorithms and data structures certification][YouTube]!
+
 - 🌱 I’m currently hooked to  projects in React hooks.🤣
 - 👯 I’m looking to build websites and apps in React
-- 🥅 2020 Goals: Get my YouTube channel monetised $$ 😊😊
+- 🥅 2021 Goals: Get my YouTube channel monetised $$ 😊😊 & learn python 
 - ⚡ Fun fact: I love to sketch, paint and teach!
 
 ### Connect with me:
@@ -53,6 +54,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+-[Iterate with Javascriptfor loop| freecodecamp basic Javascript walkthrough guide(May 2021) ](https://youtu.be/syU_jF-mfuQ)
 - [MAP ARRAY METHOD JAVASCRIPT| JavaScript  Array Methods 12 | JavaScript tutorial for beginners#38 (October 2020)](https://youtu.be/Uzwo1hXW7ik)
 - [FILL ARRAY METHOD | JavaScript  Array Methods 11 | JavaScript tutorial for beginners#37
  (October 2020)](https://youtu.be/uu75VB9E_ek)
