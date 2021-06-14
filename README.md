@@ -46,6 +46,7 @@ Here are some facts on me:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/React/React.png" />][Reactplaylist]
 
 <br />
 <br />
@@ -54,6 +55,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+-[Create a simple JSX element in React(June 2021)](https://youtu.be/xWaw_H9BYaw)
 -[Iterate with Javascriptfor loop| freecodecamp basic Javascript walkthrough guide(May 2021) ](https://youtu.be/syU_jF-mfuQ)
 - [MAP ARRAY METHOD JAVASCRIPT| JavaScript  Array Methods 12 | JavaScript tutorial for beginners#38 (October 2020)](https://youtu.be/Uzwo1hXW7ik)
 - [FILL ARRAY METHOD | JavaScript  Array Methods 11 | JavaScript tutorial for beginners#37
