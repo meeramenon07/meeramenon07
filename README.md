@@ -10,7 +10,7 @@
  
  <p align='center'>
  
- <a href="#"><img src="https://pbs.twimg.com/profile_banners/100439822/1603269183/1280x640" height="640" width="1280"></a>
+ <img src="https://imgur.com/a/WJk11nR.png">
  </p>
 <br/>
 <br/>
