@@ -71,7 +71,7 @@ Here are some facts on me:
 
 <a href="#"><img align="left" alt="meeramenon07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeramenon07&show_icons=true&hide_border=true&theme=dark" width="750" height="250" /></a>
 
-[facebook]: https://www.facebook.com/edtech.meera
+[facebook]: https://www.facebook.com/edtechbymeera
 [twitter]: https://twitter.com/EdtechByMeera
 [youtube]: https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg?sub_confirmation=1
 [instagram]: https://www.instagram.com/meeraloves2code/
