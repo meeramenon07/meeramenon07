@@ -3,7 +3,7 @@
 
 <br>
 <p align='center'>
-  Coding Teacher at <a href="https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg" target="_blank">edtech</a>
+  Coding Teacher at <a href="https://www.youtube.com/channel/c/edtechbymeera" target="_blank">edtech</a>
 </p>
 
 
