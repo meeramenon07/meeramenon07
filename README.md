@@ -10,7 +10,7 @@
  
  <p align='center'>
  
- <img src="https://imgur.com/P0CA9cB" height="640" width="1280">
+ ![web development](https://pbs.twimg.com/profile_banners/100439822/1631251257/1080x360)
  </p>
 <br/>
 <br/>
