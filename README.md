@@ -22,7 +22,7 @@
 Here are some facts on me:
 
 ## I'm an Entrepreneur, Developer, and Teacher!
-- 🔭 I’m currently wmlearning Python programming!
+- 🔭 I’m currently learning Python programming!
 
 - 🌱 I’m currently hooked to  projects in React hooks.🤣
 - 👯 I’m looking to build websites and apps in React and Python
