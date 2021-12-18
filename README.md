@@ -22,16 +22,16 @@
 Here are some facts on me:
 
 ## I'm an Entrepreneur, Developer, and Teacher!
-- 🔭 I’m currently working on a [freecodecamp Javascript algorithms and data structures certification][YouTube]!
+- 🔭 I’m currently wmlearning Python programming!
 
 - 🌱 I’m currently hooked to  projects in React hooks.🤣
-- 👯 I’m looking to build websites and apps in React
-- 🥅 2021 Goals: Get my YouTube channel monetised $$ 😊😊 & learn python 
+- 👯 I’m looking to build websites and apps in React and Python
+- 🥅 2021 Goals: Get my YouTube channel monetised $$ 😊😊 
 - ⚡ Fun fact: I love to sketch, paint and teach!
 
 ### Connect with me:
 
-[<img align="left" alt="edtech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="edtechbymeera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="EdtechByMeera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="meerabmenon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="meeraloves2code | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
