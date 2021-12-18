@@ -1,9 +1,9 @@
 
-  # Hi, 👋 I'm Meera Menon, aka [edtech][YouTube], with a passion to teach!
+  # Hi, 👋 I'm Meera Menon, aka [edtechbymeera][YouTube], with a passion to teach!
 
 <br>
 <p align='center'>
-  Coding Teacher at <a href="https://youtube.com/c/edtechbymeera" target="_blank">edtech</a>
+  Coding Teacher at <a href="https://youtube.com/c/edtechbymeera" target="_blank">edtechbymeera</a>
 </p>
 
 
