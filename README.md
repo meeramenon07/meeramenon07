@@ -26,7 +26,7 @@ Here are some facts on me:
 
 - 🌱 I’m currently hooked to  projects in React hooks.🤣
 - 👯 I’m looking to build websites and apps in React and Python
-- 🥅 2021 Goals: Get my YouTube channel monetised $$ 😊😊 
+- 🥅 2022 Goals: Get my YouTube channel monetised $$ 😊😊 
 - ⚡ Fun fact: I love to sketch, paint and teach!
 
 ### Connect with me:
