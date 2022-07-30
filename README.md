@@ -55,7 +55,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+-[Filter arrays in React(July 2022)](https://youtu.be/JAKHrkpjVOs)
 -[Toggling menu icon JavaScript(November 2021)](https://youtube.com/shorts/sAh1jlUk3Ew)
 - [Create a simple JSX element in React(June 2021)](https://youtu.be/xWaw_H9BYaw)
 -[Iterate with Javascriptfor loop| freecodecamp basic Javascript walkthrough guide(May 2021) ](https://youtu.be/syU_jF-mfuQ)
