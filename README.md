@@ -6,7 +6,7 @@
   Coding Teacher at <a href="https://youtube.com/c/edtechbymeera" target="_blank">edtechbymeera</a>
 </p>
 
-
+![Header](./20221216_133850_0000.png)
  
  <p align='center'>
  
@@ -69,7 +69,6 @@ Here are some facts on me:
 <!-- YOUTUBE:END -->
 [more videos...](https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg)
 ---
-
 
 ---
 
