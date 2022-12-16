@@ -10,7 +10,7 @@
  
  <p align='center'>
  
- ![web development](https://github.com/meeramenon07/Build-A-Random-Quote-Machine-fcc-challenge-/blob/main/README.md /profile_banners/100439822/1631251257/1080x360)
+ 
  </p>
 <br/>
 <br/>
