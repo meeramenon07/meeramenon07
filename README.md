@@ -6,7 +6,7 @@
   Coding Teacher at <a href="https://youtube.com/c/edtechbymeera" target="_blank">edtechbymeera</a>
 </p>
 
-![Header](./20221216_133850_0000.png)
+![Header](./20221216_133850_0000.png/108₩ × 360)
  
  <p align='center'>
  
