@@ -21,10 +21,10 @@
 -->
 Here are some facts on me:
 
-## I'm an Entrepreneur, Developer, and Teacher!
+## I'm a Web Developer, Technical Writer, Blogger and Code Mentor!
 - 🔭 I’m currently learning Python programming!
 
-- 🌱 I’m currently hooked to  projects in React hooks.🤣
+- 🌱 I’m currently teaching  projects in React hooks.🤣
 - 👯 I’m looking to build websites and apps in React and Python
 - 🥅 2022 Goals: Get my YouTube channel monetised $$ 😊😊 
 - ⚡ Fun fact: I love to sketch, paint and teach!
@@ -56,7 +56,7 @@ Here are some facts on me:
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 
-- [Filter arrays in React(July 2022)](https://youtu.be/JAKHrkpjVOs)
+- [Build Random Quote Machine in React(December 2022)](https://youtu.be/DecVucCNbtY)
 
 - [Toggling menu icon JavaScript(November 2021)](https://youtube.com/shorts/sAh1jlUk3Ew)
 - [Create a simple JSX element in React(June 2021)](https://youtu.be/xWaw_H9BYaw)
