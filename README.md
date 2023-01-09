@@ -58,12 +58,14 @@ Here are some facts on me:
 
 - [Build Random Quote Machine in React(December 2022)](https://youtu.be/DecVucCNbtY)
 
-- [Toggling menu icon JavaScript(November 2021)](https://youtube.com/shorts/sAh1jlUk3Ew)
-- [Create a simple JSX element in React(June 2021)](https://youtu.be/xWaw_H9BYaw)
--[Iterate with Javascriptfor loop| freecodecamp basic Javascript walkthrough guide(May 2021) ](https://youtu.be/syU_jF-mfuQ)
-- [MAP ARRAY METHOD JAVASCRIPT| JavaScript  Array Methods 12 | JavaScript tutorial for beginners#38 (October 2020)](https://youtu.be/Uzwo1hXW7ik)
-- [FILL ARRAY METHOD | JavaScript  Array Methods 11 | JavaScript tutorial for beginners#37
- (October 2020)](https://youtu.be/uu75VB9E_ek)
+- [Destructuring Assignments to Extract Values from Objects - ES6 Part7(September 2022)](https://youtu.be/z3EyglrX1TA)
+- [Render conditionally from props| freeCodeCamp basic React|React tutorial for beginners(August 2022)](https://youtu.be/OSGpxO7jrzc)
+-[Use Arrow Functions to Write Concise Anonymous Functions - ES6 Part 2
+)(July 2022) ](https://youtu.be/UU-GrU3A88E)
+- [Use the Rest parameter with function parameters - ES6 Part 5
+(August 2022)](https://youtu.be/DXugPAWT-F8)
+- [Create controlled form - freeCodeCamp basic React- React tutorial for beginners
+ (March 2022)](https://youtu.be/EpZqSfL5JOI)
 - [INCLUDES ARRAY METHOD | JavaScript  Array Methods 10 | JavaScript tutorial for beginners#36 (October 2020)](https://youtu.be/XwsMLtYVkNM)
 - [Learn JavaScript String Slice method (JavaScript)](https://www.youtube.com/watch?v=Lev40JRi85Y)
 <!-- YOUTUBE:END -->
