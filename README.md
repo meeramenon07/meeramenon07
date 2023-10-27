@@ -57,7 +57,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [How to create your first pull request in github(October 2023)](https://youtu.be/aKNZ3gSGgVI?si=UcR-ItCSzw9inemm)
 - [Build Random Quote Machine in React(December 2022)](https://youtu.be/DecVucCNbtY)
 
 - [Destructuring Assignments to Extract Values from Objects - ES6 Part7(September 2022)](https://youtu.be/z3EyglrX1TA)
