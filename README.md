@@ -23,12 +23,12 @@
 Here are some facts on me:
 
 ## I'm a Web Developer, Technical Writer, Blogger and Code Mentor!
-- 🔭 I’m currently learning Python programming!
+- 🔭 I’m currently learning PHP programming!
 
-- 🌱 I’m currently teaching  projects in React hooks.🤣
+- 🌱 I’m currently teaching  projects in Python3.🤣
 - 👯 I’m looking to build websites and apps in React and Python
-- 🥅 2023 Goals: Get my YouTube channel monetised $$ 😊😊 
-- ⚡ Fun fact: I love to sketch, paint and teach!
+- 🥅 2024 Goals: Get my YouTube channel monetised $$ 😊😊 
+- ⚡ Fun fact: I love to sing, sketch, paint and teach!
 
 ### Connect with me:
 
