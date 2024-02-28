@@ -58,6 +58,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build Python Todo List(January 2024)](https://youtu.be/QpKJdOiyxQU)
 - [How to create your first pull request in github(October 2023)](https://youtu.be/aKNZ3gSGgVI?si=UcR-ItCSzw9inemm)
 - [Build Random Quote Machine in React(December 2022)](https://youtu.be/DecVucCNbtY)
 
