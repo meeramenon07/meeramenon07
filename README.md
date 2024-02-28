@@ -58,7 +58,12 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+-[React tutorial for beginners Part 1(February 2024](https://youtu.be/GC9w-zDOkKg)
+- [Solving Exponential Equations Algebra(January 2024)](https://youtu.be/xxnumiDUdNw)
 - [Build Python Todo List(January 2024)](https://youtu.be/QpKJdOiyxQU)
+-  [Build A Simple Music Player in Python(December 2023)](https://youtu.be/19ZehnyGtJI)
+-  [Build a Movie Search App with TMDb API(December 2023)](https://youtu.be/dWyCxoY_P0c)
+-  [Build A React Calculator(December 23)](https://youtu.be/5wxLHmwjNhE)
 - [How to create your first pull request in github(October 2023)](https://youtu.be/aKNZ3gSGgVI?si=UcR-ItCSzw9inemm)
 - [Build Random Quote Machine in React(December 2022)](https://youtu.be/DecVucCNbtY)
 
