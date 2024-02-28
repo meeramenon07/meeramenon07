@@ -58,7 +58,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
--[React tutorial for beginners Part 1(February 2024](https://youtu.be/GC9w-zDOkKg)
+- [React tutorial for beginners Part 1(February 2024](https://youtu.be/GC9w-zDOkKg)
 - [Solving Exponential Equations Algebra(January 2024)](https://youtu.be/xxnumiDUdNw)
 - [Build Python Todo List(January 2024)](https://youtu.be/QpKJdOiyxQU)
 -  [Build A Simple Music Player in Python(December 2023)](https://youtu.be/19ZehnyGtJI)
