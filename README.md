@@ -58,6 +58,7 @@ Here are some facts on me:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python Beginner Projec|tBuild Income Tracker (August 2024)](https://youtu.be/GFM4Mk4HwXw)
 - [React tutorial for beginners Part 1(February 2024](https://youtu.be/GC9w-zDOkKg)
 - [Solving Exponential Equations Algebra(January 2024)](https://youtu.be/xxnumiDUdNw)
 - [Build Python Todo List(January 2024)](https://youtu.be/QpKJdOiyxQU)
